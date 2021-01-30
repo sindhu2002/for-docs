@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'technical documentation'
-copyright = '2021, girisha'
-author = 'Gireesha'
+project = 'some documentation'
+copyright = '2021, sindhu'
+author = 'Sindhu'
 
 # The full version, including alpha/beta/rc tags
 release = '2021'
