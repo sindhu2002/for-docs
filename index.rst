@@ -10,6 +10,8 @@ Welcome to ABC's documentation!
    :maxdepth: 2
    :numbered:
    
+   sampleproject2
+   
    first.md
 
 
